@@ -1,0 +1,16 @@
+.Link {
+  text-decoration: none;
+  color: #03a9f4;
+}
+
+.Link:hover {
+  color: #007ac1;
+}
+
+.Author {
+  margin: 10px;
+}
+
+.Post {
+  margin: 10px;
+}

@@ -1,0 +1,10 @@
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+}
+
+.List>* {
+  flex: 1 0 20%;    
+}
